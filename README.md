@@ -63,7 +63,7 @@ i design and develop software that makes life a little more fun c:
 </span>
 
 
-## GitHub Stats
+## github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emilywang188&show_icons=true&theme=dark" alt="Emily's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilywang188&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />

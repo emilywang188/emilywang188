@@ -8,19 +8,19 @@
 
 <a href="https://emilywang.vercel.app">visit my portfolio!</a>
 
-## about
+## about ᯓ★
 i design and develop software that makes life a little more fun c:
 
 - 🏫 i'm a senior at brown university, studying computer science with a focus on AI and design.
 - 🤖 this summer, i'm interning as an AI-focused software engineer at ace hardware!
 - 🧶 i love cozy nights crocheting and listening to j-pop :D
 
-## let's connect !
+## let's connect 𐙚₊˚⊹!
   <a href="https://github.com/emilywang188"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/emily-mt-wang"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
   <a href="mailto:emilywang188@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-## my tools
+## my tools ₍ᐢ.  ̫.ᐢ₎
 
 #### design
 <span>
@@ -63,7 +63,7 @@ i design and develop software that makes life a little more fun c:
 </span>
 
 
-## github stats
+## github stats ⟡ ݁ . ⊹
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emilywang188&show_icons=true&theme=dark" alt="Emily's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilywang188&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />

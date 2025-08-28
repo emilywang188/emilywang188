@@ -4,12 +4,12 @@
 </p>
 
 
-# hi, i'm emily (˶˃ ᵕ ˂˶)
+# hi, i'm emily!
 
 <a href="https://emilywang.vercel.app">visit my portfolio!</a>
 
 ## about ᯓ★
-i design and develop software that makes life a little more fun c:
+i design and develop software that makes life a little more fun.
 
 - 🏫 i'm a senior at brown university, studying computer science with a focus on AI and design.
 - 🤖 this summer, i'm interning as an AI-focused software engineer at ace hardware!

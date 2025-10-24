@@ -4,31 +4,31 @@
 </p>
 
 
-# hi, i'm emily!
+# Hi, I'm Emily!
 
-<a href="https://emilywang.vercel.app">visit my portfolio!</a>
+<a href="https://emilywang.vercel.app">Visit my portfolio!</a>
 
-## about ᯓ★
-i design and develop software that makes life a little more fun.
+## About ᯓ★
+I design and develop software that makes life a little more fun.
 
-- 🏫 i'm a senior at brown university, studying computer science with a focus on AI and design.
-- 🤖 this summer, i'm interning as an AI-focused software engineer at ace hardware!
-- 🧶 i love cozy nights crocheting and listening to j-pop :D
+- 🏫 I'm a senior at Brown University, studying computer science with a focus on AI and design.
+- 🤖 This summer, I'm interning as an AI-focused software engineer at Ace Hardware!
+- 🧶 I love cozy nights crocheting and listening to J-pop :D
 
-## let's connect 𐙚₊˚⊹!
+## Let's Connect 𐙚₊˚⊹!
   <a href="https://github.com/emilywang188"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/emily-mt-wang"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"/></a>
   <a href="mailto:emilywang188@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-## my tools ₍ᐢ.  ̫.ᐢ₎
+## My Tools ₍ᐢ.  ̫.ᐢ₎
 
-#### design
+#### Design
 <span>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="Canva">
 </span>
 
-#### frameworks
+#### Frameworks
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff" alt="Expo">
@@ -41,7 +41,7 @@ i design and develop software that makes life a little more fun.
 
 </span>
 
-#### programming languages
+#### Programming Languages
 <span>
   
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
@@ -63,7 +63,7 @@ i design and develop software that makes life a little more fun.
 </span>
 
 
-## github stats ⟡ ݁ . ⊹
+## GitHub Stats ⟡ ݁ . ⊹
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emilywang188&show_icons=true&theme=dark" alt="Emily's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilywang188&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />

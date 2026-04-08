@@ -7,7 +7,7 @@
 # Hi, I'm Emily!
 
 ## About
-Full-stack software developer. I'm a senior at Brown University studying computer science.
+I'm a senior at Brown University studying computer science. I like full-stack software development.
 
 ## Let's Connect!
   <a href="https://github.com/emilywang188"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/></a>

@@ -16,11 +16,6 @@ I'm a senior at Brown University studying computer science. I like full-stack so
 
 ## My Tools
 
-#### Design
-<span>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" alt="Canva">
-</span>
 
 #### Frameworks
 <span>

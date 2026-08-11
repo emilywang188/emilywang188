@@ -1,7 +1,7 @@
 # hi, i'm emily
 
 ## about
-i'm a senior at brown university studying computer science. i enjoy product-focused software engineering.
+i am a software engineer focusing on machine learning engineering. 
 
 ## links
   <a href="https://github.com/emilywang188"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/></a>
